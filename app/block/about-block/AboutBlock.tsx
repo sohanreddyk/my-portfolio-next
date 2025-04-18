@@ -17,7 +17,7 @@ const AboutBlock = () => {
         <div className=" rounded-2xl p-6 shadow-md dark:shadow-white w-full lg:w-[390px] flex flex-col items-center text-center">
           <div className="relative w-40 h-40 mb-4">
             <Image
-              src="/profile.JPG"
+              src="/profile.jpg"
               alt="Sohan Reddy"
               fill
               className="rounded-full object-cover border-4 border-[#f6e5c8]"
@@ -62,17 +62,19 @@ const AboutBlock = () => {
           <p className="leading-relaxed px-4 text-[15px] md:text-base text-justify">
             <strong>Greetings,</strong>
             <br />
-            <br />I am Jagadish C K, a driven and innovative Information Science
-            engineer with a burgeoning expertise in with expertise in web
-            development. My academic foundation, cultivated at Siddaganga
-            Institute of technology, serves as the bedrock for my proficiency in
-            a diverse array of technologies. This portfolio offers a
-            comprehensive overview of my capabilities, encompassing robust web
-            development skills—leveraging the Full stack—alongside a strong
-            command of core programming languages, notably C++ and Python. I am
-            passionate about crafting elegant, efficient solutions and
-            continuously expanding my knowledge horizon within the dynamic realm
-            of technology.
+            <br />I am SOHAN, a driven and innovative Artificial Intelligence
+             and Data Science, fueled by a passion for building impactful tech
+             solutions. My academic journey at Siddaganga Institute of 
+             Technology, combined with hands-on experience across industry and 
+             research, has shaped me into a versatile developer with strong 
+             expertise in full-stack web development, mobile app design, and 
+             intelligent systems. Whether its creating a high-efficiency stock
+             prediction platform, developing cloud-based tools, or publishing 
+             cutting-edge research on quantum learning, I approach every project 
+             with curiosity, creativity, and precision. This portfolio is a reflection 
+             of my growth, showcasing my ability to merge design, development, and 
+             data into elegant, scalable solutions as I continue to explore the 
+             ever-evolving world of technology.
           </p>
         </div>
       </div>
