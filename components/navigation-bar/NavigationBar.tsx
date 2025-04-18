@@ -18,7 +18,7 @@ export default function NavigationBar() {
     skills: "/block/skills-block",
     projects: "/block/projects-block",
     resume:
-      "https://drive.google.com/file/d/1iGemOAXi8FTNwpmVurO_GuoGZMfgr_v-/view?usp=drive_link",
+      "https://drive.google.com/file/d/1x7oz5xIihBrBDfT-ncc2Qgj7DdrG5QB7/view?usp=sharing",
     contact: "/block/contact-block",
   };
 
