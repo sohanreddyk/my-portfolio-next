@@ -40,16 +40,16 @@ const AboutBlock = () => {
             <li>
               <span className="font-semibold">› City:</span>{" "}
               <span id="location" className=" text-black dark:text-white">
-                Karnataka, India
+                Bangalore, India
               </span>
             </li>
             <li>
               <span className="font-semibold">› Email:</span>{" "}
               <a
-                href="mailto:jagadishck.018@gmail.com"
+                href="mailto:sohan_reddy@outlook.com"
                 className=" text-black dark:text-white underline hover:text-orange-400"
               >
-                jagadishck.018@gmail.com
+                sohan_reddy@outlook.com
               </a>
             </li>
           </ul>
