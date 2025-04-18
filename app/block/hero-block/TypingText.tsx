@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 
-const words = ["Student", "Fullstack Developer"];
+const words = ["Student", "Software Developer"];
 
 const TypingText = () => {
   const [wordIndex, setWordIndex] = useState(0);

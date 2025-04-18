@@ -18,27 +18,27 @@ const socialLinks = [
   {
     title: "GitHub",
     tag: <VscGithubInverted size={24} />,
-    url: "https://github.com/jagadish018",
+    url: "https://github.com/sohanreddyk",
   },
   {
     title: "Instagram",
     tag: <BiLogoInstagramAlt size={24} />,
-    url: "https://instagram.com/yourusername",
+    url: "https://instagram.com/sohanreddyy",
   },
   {
     title: "X/Twitter",
     tag: <FaXTwitter size={20} />,
-    url: "https://x.com/JagadishCK4056",
+    url: "https://x.com/sohanreddyy",
   },
   {
     title: "LinkedIn",
     tag: <FaLinkedin size={24} />,
-    url: "https://www.linkedin.com/in/jagadish-c-k-93b729187/",
+    url: "https://www.linkedin.com/in/sohanreddyk",
   },
   {
     title: "Leetcode",
     tag: <SiLeetcode size={22} />,
-    url: "https://leetcode.com/u/jagadishck018/",
+    url: "https://leetcode.com/u/sohanreddyk/",
   },
 ];
 
@@ -59,7 +59,7 @@ const HeroPage = () => {
         {/* Left Section */}
         <div className="flex-1 text-start px-6">
           <h1 className="text-4xl md:text-6xl font-extrabold text-black dark:text-white leading-tight">
-            Jagadish C K
+            Sohan Reddy
           </h1>
 
           <p className="mt-6 text-2xl font-bold text-gray-700 dark:text-slate-300 flex gap-2">
@@ -96,7 +96,7 @@ const HeroPage = () => {
 
       {/* Footer */}
       <div className="absolute bottom-5 w-full text-center text-sm text-gray-600 dark:text-gray-400">
-        Made with ❤ and &lt;/&gt; by Jagadish
+        Made with ❤ and &lt;/&gt; by Sohan
       </div>
     </div>
   );

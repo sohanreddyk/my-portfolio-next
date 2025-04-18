@@ -6,18 +6,18 @@ const ContactBlock = () => {
     {
       imagePath: "/sit.jpg",
       degree: "Bachelor of Engineering",
-      branch: "Information Science",
+      branch: "Artificial Intelligence and Data Science",
       duration: "2022 - 2025",
       college: "Siddaganga Institute Of Technology",
-      CGPA: "8.15 CGPA",
+      CGPA: "A",
     },
     {
       imagePath: "/rit.jpg",
-      degree: "Diploma",
-      branch: "Mechnical Engineering",
-      duration: "2016 - 2019",
-      college: "Rajeev Polytechnic College",
-      CGPA: "7.9 CGPA",
+      degree: "Pre University",
+      branch: "Science and Mathematics (PCMC)",
+      duration: "2019 - 2021",
+      college: "Expert Pre University College",
+      CGPA: "9.73 CGPA",
     },
   ];
 

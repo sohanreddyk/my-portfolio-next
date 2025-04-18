@@ -6,28 +6,29 @@ const ProjectPage = () => {
     {
       imagePath: "/hackernews.jpg",
       title: "Hackernews-Server",
-      projectUrl: "https://github.com/jagadish018/hackernews-server",
-      description: "Developed an Hackernews server clone",
+      projectUrl: "https://github.com/sohanreddyk/hackernews-server",
+      description: "Developed Hackernews server clone",
     },
     {
       imagePath: "/filelessMalware.png",
-      title: "Fileless Malware Detection",
+      title: "Safety Helmet Detection",
       projectUrl: "https://github.com/jswaroop123/FileLess_Malware",
       description:
-        "Developed ML model using Random Forest. It detects Fileless Malware",
+        "Developed ML model using YOLOv5 + Streamlit to detect Safety Helmet",
     },
     {
       imagePath: "/swiggy.jpg",
-      title: "Swiggy Clone",
-      projectUrl: "https://github.com/jagadish018/hackernews-server",
-      description: "Developed Swiggy clone ",
+      title: "Resume Builder",
+      projectUrl: "https://github.com/sohanreddyk/resumebuilder",
+      description:
+        "Developed an AI-powered Resume Builder using React + TailwindCSS",
     },
     {
       imagePath: "/colonCancer.jpg",
-      title: "Colon Cancer Prediction",
-      projectUrl: "https://github.com/jagadish018/colon_cancer_prediction",
-      description:
-        "Developed Deep learning model using ResNet50 + Streamlit. It detects Colon Cancer",
+      title: "PL-Prediction",
+      projectUrl:
+        "https://github.com/sohanreddyk/PL-prediction",
+      description: "Developed a Premier League Match Prediction System",
     },
     {
       imagePath: "/cpuSchedule.jpg",

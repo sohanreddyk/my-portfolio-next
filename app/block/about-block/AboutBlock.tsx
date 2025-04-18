@@ -23,18 +23,18 @@ const AboutBlock = () => {
               className="rounded-full object-cover border-4 border-[#f6e5c8]"
             />
           </div>
-          <h3 className="text-xl font-bold mb-2">Jagadis</h3>
+          <h3 className="text-xl font-bold mb-2">Sohan Reddy</h3>
           <ul className="text-left space-y-2 text-sm">
             <li>
-              <span className="font-semibold">› Birthday:</span> July 2000
+              <span className="font-semibold">› Birthday:</span> November 2002
             </li>
             <li>
               <span className="font-semibold">› Phone:</span>{" "}
               <a
-                href="tel:+917349269873"
+                href="tel:+919591473430"
                 className=" text-black dark:text-white underline hover:text-orange-400"
               >
-                +91 7349269873
+                +91 9591473430
               </a>
             </li>
             <li>

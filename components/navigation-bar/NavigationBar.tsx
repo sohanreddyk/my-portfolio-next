@@ -40,7 +40,7 @@ export default function NavigationBar() {
       <div className="flex items-center justify-between max-w-7xl mx-auto">
         {/* Logo */}
         <div className="font-bold text-xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500">
-          &lt;JAGADISH C K /&gt;
+          &lt;SOHAN REDDY /&gt;
         </div>
 
         {/* Hamburger */}
